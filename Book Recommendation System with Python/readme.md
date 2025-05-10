@@ -55,10 +55,3 @@ Here are some of the visual insights used in the project:
 ![Top 10 Books](Top10%20books.png)
 
 ---
-
-## 🚀 How to Run
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/MohithKumar8897/Recency-Frequency-Monetary-RFM-analysis.git
-   cd Recency-Frequency-Monetary-RFM-analysis/Book\ Recommendation\ System\ with\ Python
