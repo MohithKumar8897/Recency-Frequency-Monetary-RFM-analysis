@@ -11,10 +11,27 @@ This project uses Recency-Frequency-Monetary (RFM) analysis and clustering techn
 
 ---
 
-## 📊 Visualizations
+## 📂 Dataset Description
 
-### Dataset Details
-![Dataset Details](https://github.com/MohithKumar8897/Recency-Frequency-Monetary-RFM-analysis/blob/main/User%20Profiling%20and%20Segmentation%20using%20Python/Dataset%20Detailes.png)
+- **User ID**: Unique user identifier
+- **Age**: Age range of the user (e.g., 25–34)
+- **Gender**: User gender
+- **Location**: Urban/Suburban/Rural
+- **Language**: Preferred language
+- **Education Level**: Highest degree attained
+- **Device Usage**: Type of device used (Mobile, Desktop, etc.)
+- **Time Spent Online (Weekday & Weekend)**: Hours spent online
+- **Likes and Reactions**: Engagement level
+- **Followed Accounts**: Count of followed users
+- **Click-Through Rate (CTR)**: % of ad impressions that were clicked
+- **Conversion Rate**: % of clicks that led to a conversion
+- **Ad Interaction Time**: Average time (in seconds) spent on ads
+- **Income Level**: Monthly income range
+- **Top Interests**: Dominant user interests
+
+---
+
+## 📊 Visualizations
 
 ### Key Demographic Distributions
 ![Demographics](https://github.com/MohithKumar8897/Recency-Frequency-Monetary-RFM-analysis/blob/main/User%20Profiling%20and%20Segmentation%20using%20Python/Distribution%20of%20Key%20demographic%20Variables.png)
