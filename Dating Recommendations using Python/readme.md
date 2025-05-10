@@ -43,6 +43,139 @@ Displays how frequently users interact with the app.
 
 ---
 
+## Match Recommendations
+
+Here are some sample matchmaking recommendations:
+
+### Recommendation 1:
+- **Male Profile (User 36)**:  
+  Age: 19  
+  Interests: ['Movies', 'Cooking', 'Hiking', 'Reading', 'Sports', 'Travel', 'Music']
+  
+- **Female Profile (User 451)**:  
+  Age: 19  
+  Interests: ['Reading', 'Music', 'Cooking', 'Hiking', 'Travel', 'Sports', 'Movies']
+  
+- **Match Score**: 18.79
+
+---
+
+### Recommendation 2:
+- **Male Profile (User 274)**:  
+  Age: 29  
+  Interests: ['Reading', 'Movies', 'Travel', 'Music', 'Hiking', 'Cooking', 'Sports']
+  
+- **Female Profile (User 300)**:  
+  Age: 29  
+  Interests: ['Cooking', 'Reading', 'Music', 'Hiking', 'Travel', 'Sports', 'Movies']
+  
+- **Match Score**: 18.73
+
+---
+
+### Recommendation 3:
+- **Male Profile (User 456)**:  
+  Age: 29  
+  Interests: ['Cooking', 'Hiking', 'Sports', 'Travel', 'Music', 'Movies', 'Reading']
+  
+- **Female Profile (User 65)**:  
+  Age: 29  
+  Interests: ['Travel', 'Movies', 'Reading', 'Sports', 'Music', 'Cooking', 'Hiking']
+  
+- **Match Score**: 18.69
+
+---
+
+### Recommendation 4:
+- **Male Profile (User 147)**:  
+  Age: 34  
+  Interests: ['Reading', 'Travel', 'Movies', 'Hiking', 'Cooking', 'Music', 'Sports']
+  
+- **Female Profile (User 287)**:  
+  Age: 34  
+  Interests: ['Reading', 'Hiking', 'Cooking', 'Music', 'Movies', 'Travel', 'Sports']
+  
+- **Match Score**: 18.66
+
+---
+
+### Recommendation 5:
+- **Male Profile (User 321)**:  
+  Age: 20  
+  Interests: ['Sports', 'Reading', 'Cooking', 'Travel', 'Movies', 'Hiking', 'Music']
+  
+- **Female Profile (User 168)**:  
+  Age: 20  
+  Interests: ['Cooking', 'Sports', 'Music', 'Reading', 'Travel', 'Hiking', 'Movies']
+  
+- **Match Score**: 18.58
+
+---
+
+### Recommendation 6:
+- **Male Profile (User 323)**:  
+  Age: 30  
+  Interests: ['Hiking', 'Travel', 'Movies', 'Reading', 'Sports', 'Cooking', 'Music']
+  
+- **Female Profile (User 497)**:  
+  Age: 30  
+  Interests: ['Hiking', 'Reading', 'Travel', 'Sports', 'Music', 'Cooking', 'Movies']
+  
+- **Match Score**: 18.57
+
+---
+
+### Recommendation 7:
+- **Male Profile (User 181)**:  
+  Age: 25  
+  Interests: ['Sports', 'Music', 'Hiking', 'Travel', 'Cooking', 'Movies', 'Reading']
+  
+- **Female Profile (User 175)**:  
+  Age: 25  
+  Interests: ['Sports', 'Music', 'Travel', 'Hiking', 'Movies', 'Reading', 'Cooking']
+  
+- **Match Score**: 18.34
+
+---
+
+### Recommendation 8:
+- **Male Profile (User 489)**:  
+  Age: 33  
+  Interests: ['Travel', 'Hiking', 'Reading', 'Sports', 'Music', 'Movies', 'Cooking']
+  
+- **Female Profile (User 99)**:  
+  Age: 33  
+  Interests: ['Reading', 'Cooking', 'Sports', 'Hiking', 'Movies', 'Music', 'Travel']
+  
+- **Match Score**: 18.3
+
+---
+
+### Recommendation 9:
+- **Male Profile (User 280)**:  
+  Age: 29  
+  Interests: ['Travel', 'Hiking', 'Music', 'Sports', 'Reading', 'Cooking', 'Movies']
+  
+- **Female Profile (User 300)**:  
+  Age: 29  
+  Interests: ['Cooking', 'Reading', 'Music', 'Hiking', 'Travel', 'Sports', 'Movies']
+  
+- **Match Score**: 18.29
+
+---
+
+### Recommendation 10:
+- **Male Profile (User 92)**:  
+  Age: 22  
+  Interests: ['Music', 'Hiking', 'Cooking', 'Travel', 'Movies', 'Reading', 'Sports']
+  
+- **Female Profile (User 205)**:  
+  Age: 22  
+  Interests: ['Hiking', 'Movies', 'Reading', 'Travel', 'Sports', 'Cooking', 'Music']
+  
+- **Match Score**: 18.2
+
+---
 
 # 📌 Conclusion
 
